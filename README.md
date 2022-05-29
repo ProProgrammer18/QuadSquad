@@ -1,2 +1,2 @@
 # QuadSquad
-ACM Hackhathon
+ACM Hackathon 2022
